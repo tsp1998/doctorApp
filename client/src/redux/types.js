@@ -1,0 +1,18 @@
+export const TOGGLE_MODAL = "TOGGLE_MODAL";
+export const LOADING_FINISHED = "LOADING_FINISHED";
+export const LOADING = "LOADING";
+
+//user types
+export const SET_AUTHENTICATED = "SET_AUTHENTICATED";
+export const SET_UNAUTHENTICATED = "SET_UNAUTHENTICATED";
+export const LOADING_USER = "LOADING_USER";
+export const SET_USER = "SET_USER";
+export const SET_USER_ERRORS = "SET_USER_ERRORS";
+
+//doctor types
+export const LOADING_DOCTORS = "LOADING_DOCTORS";
+export const SET_DOCTORS = "SET_DOCTORS";
+export const SET_DOCTOR_ERRORS = "SET_DOCTOR_ERRORS";
+export const SET_APOINTMENT = "SET_APOINTMENT";
+export const BOOKING_APOINTMENT = "BOOKING_APOINTMENT";
+export const SET_APOINTMENTS = "SET_APOINTMENTS";
